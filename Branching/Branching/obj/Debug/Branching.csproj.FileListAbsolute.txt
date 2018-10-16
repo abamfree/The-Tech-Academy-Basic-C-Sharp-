@@ -1,7 +1,0 @@
-C:\Users\Abraham\source\repos\Branching\Branching\bin\Debug\Branching.exe.config
-C:\Users\Abraham\source\repos\Branching\Branching\bin\Debug\Branching.exe
-C:\Users\Abraham\source\repos\Branching\Branching\bin\Debug\Branching.pdb
-C:\Users\Abraham\source\repos\Branching\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
-C:\Users\Abraham\source\repos\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
-C:\Users\Abraham\source\repos\Branching\Branching\obj\Debug\Branching.exe
-C:\Users\Abraham\source\repos\Branching\Branching\obj\Debug\Branching.pdb
