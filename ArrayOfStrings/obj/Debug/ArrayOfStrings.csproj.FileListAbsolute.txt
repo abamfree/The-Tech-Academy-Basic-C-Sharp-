@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\ArrayOfStrings\ArrayOfStrings\obj\Debug\ArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\ArrayOfStrings\ArrayOfStrings\obj\Debug\ArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ArrayOfStrings\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe.config
+C:\Users\Abraham\source\repos\ArrayOfStrings\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe
+C:\Users\Abraham\source\repos\ArrayOfStrings\ArrayOfStrings\bin\Debug\ArrayOfStrings.pdb
+C:\Users\Abraham\source\repos\ArrayOfStrings\ArrayOfStrings\obj\Debug\ArrayOfStrings.exe
+C:\Users\Abraham\source\repos\ArrayOfStrings\ArrayOfStrings\obj\Debug\ArrayOfStrings.pdb
