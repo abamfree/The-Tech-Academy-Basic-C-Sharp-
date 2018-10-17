@@ -14,7 +14,7 @@ namespace ArrayOfStrings
             List<string> authorsRange = new List<string>(authors);
             Console.WriteLine("Enter any index then the value will be display On the Screen!");
             int userInput1 = Convert.ToInt32(Console.ReadLine());
-            if (userInput1 > authorsRange.Count)
+            if (userInput1 > authors.Length)
             {
                 Console.WriteLine("ERROR!");
             }
