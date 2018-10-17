@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\ComparisonWhile\ComparisonWhile\obj\Debug\ComparisonWhile.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\ComparisonWhile\ComparisonWhile\obj\Debug\ComparisonWhile.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ComparisonWhile\ComparisonWhile\bin\Debug\ComparisonWhile.exe.config
+C:\Users\Abraham\source\repos\ComparisonWhile\ComparisonWhile\bin\Debug\ComparisonWhile.exe
+C:\Users\Abraham\source\repos\ComparisonWhile\ComparisonWhile\bin\Debug\ComparisonWhile.pdb
+C:\Users\Abraham\source\repos\ComparisonWhile\ComparisonWhile\obj\Debug\ComparisonWhile.exe
+C:\Users\Abraham\source\repos\ComparisonWhile\ComparisonWhile\obj\Debug\ComparisonWhile.pdb

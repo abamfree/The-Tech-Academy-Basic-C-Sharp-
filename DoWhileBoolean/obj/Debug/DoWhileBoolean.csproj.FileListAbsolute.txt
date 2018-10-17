@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\DoWhileBoolean\DoWhileBoolean\obj\Debug\DoWhileBoolean.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\DoWhileBoolean\DoWhileBoolean\bin\Debug\DoWhileBoolean.exe.config
+C:\Users\Abraham\source\repos\DoWhileBoolean\DoWhileBoolean\bin\Debug\DoWhileBoolean.exe
+C:\Users\Abraham\source\repos\DoWhileBoolean\DoWhileBoolean\bin\Debug\DoWhileBoolean.pdb
+C:\Users\Abraham\source\repos\DoWhileBoolean\DoWhileBoolean\obj\Debug\DoWhileBoolean.exe
+C:\Users\Abraham\source\repos\DoWhileBoolean\DoWhileBoolean\obj\Debug\DoWhileBoolean.pdb
+C:\Users\Abraham\source\repos\DoWhileBoolean\DoWhileBoolean\obj\Debug\DoWhileBoolean.csprojAssemblyReference.cache
