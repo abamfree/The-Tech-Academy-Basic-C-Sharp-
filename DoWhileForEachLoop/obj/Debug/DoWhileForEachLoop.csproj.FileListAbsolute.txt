@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\DoWhileForEachLoop\DoWhileForEachLoop\bin\Debug\DoWhileForEachLoop.exe.config
+C:\Users\Abraham\source\repos\DoWhileForEachLoop\DoWhileForEachLoop\bin\Debug\DoWhileForEachLoop.exe
+C:\Users\Abraham\source\repos\DoWhileForEachLoop\DoWhileForEachLoop\bin\Debug\DoWhileForEachLoop.pdb
+C:\Users\Abraham\source\repos\DoWhileForEachLoop\DoWhileForEachLoop\obj\Debug\DoWhileForEachLoop.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\DoWhileForEachLoop\DoWhileForEachLoop\obj\Debug\DoWhileForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\DoWhileForEachLoop\DoWhileForEachLoop\obj\Debug\DoWhileForEachLoop.exe
+C:\Users\Abraham\source\repos\DoWhileForEachLoop\DoWhileForEachLoop\obj\Debug\DoWhileForEachLoop.pdb
