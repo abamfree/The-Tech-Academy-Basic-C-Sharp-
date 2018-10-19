@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\IterationLoops\IterationLoops\bin\Debug\IterationLoops.exe.config
+C:\Users\Abraham\source\repos\IterationLoops\IterationLoops\bin\Debug\IterationLoops.exe
+C:\Users\Abraham\source\repos\IterationLoops\IterationLoops\bin\Debug\IterationLoops.pdb
+C:\Users\Abraham\source\repos\IterationLoops\IterationLoops\obj\Debug\IterationLoops.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\IterationLoops\IterationLoops\obj\Debug\IterationLoops.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\IterationLoops\IterationLoops\obj\Debug\IterationLoops.exe
+C:\Users\Abraham\source\repos\IterationLoops\IterationLoops\obj\Debug\IterationLoops.pdb
