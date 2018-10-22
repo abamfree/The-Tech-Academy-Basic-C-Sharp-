@@ -1,0 +1,6 @@
+C:\Users\Abraham\source\repos\ClassMethodMath\ClassMethodMath\bin\Debug\ClassMethodMath.exe.config
+C:\Users\Abraham\source\repos\ClassMethodMath\ClassMethodMath\bin\Debug\ClassMethodMath.exe
+C:\Users\Abraham\source\repos\ClassMethodMath\ClassMethodMath\bin\Debug\ClassMethodMath.pdb
+C:\Users\Abraham\source\repos\ClassMethodMath\ClassMethodMath\obj\Debug\ClassMethodMath.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ClassMethodMath\ClassMethodMath\obj\Debug\ClassMethodMath.exe
+C:\Users\Abraham\source\repos\ClassMethodMath\ClassMethodMath\obj\Debug\ClassMethodMath.pdb
