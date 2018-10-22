@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\Classwith3MethodsNew\Classwith3MethodsNew\bin\Debug\Classwith3MethodsNew.exe.config
+C:\Users\Abraham\source\repos\Classwith3MethodsNew\Classwith3MethodsNew\bin\Debug\Classwith3MethodsNew.exe
+C:\Users\Abraham\source\repos\Classwith3MethodsNew\Classwith3MethodsNew\bin\Debug\Classwith3MethodsNew.pdb
+C:\Users\Abraham\source\repos\Classwith3MethodsNew\Classwith3MethodsNew\obj\Debug\Classwith3MethodsNew.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\Classwith3MethodsNew\Classwith3MethodsNew\obj\Debug\Classwith3MethodsNew.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Classwith3MethodsNew\Classwith3MethodsNew\obj\Debug\Classwith3MethodsNew.exe
+C:\Users\Abraham\source\repos\Classwith3MethodsNew\Classwith3MethodsNew\obj\Debug\Classwith3MethodsNew.pdb
