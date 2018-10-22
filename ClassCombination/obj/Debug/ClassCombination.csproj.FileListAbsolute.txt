@@ -1,0 +1,6 @@
+C:\Users\Abraham\source\repos\ClassCombination\ClassCombination\bin\Debug\ClassCombination.exe.config
+C:\Users\Abraham\source\repos\ClassCombination\ClassCombination\bin\Debug\ClassCombination.exe
+C:\Users\Abraham\source\repos\ClassCombination\ClassCombination\bin\Debug\ClassCombination.pdb
+C:\Users\Abraham\source\repos\ClassCombination\ClassCombination\obj\Debug\ClassCombination.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ClassCombination\ClassCombination\obj\Debug\ClassCombination.exe
+C:\Users\Abraham\source\repos\ClassCombination\ClassCombination\obj\Debug\ClassCombination.pdb
