@@ -1,7 +1,0 @@
-C:\Users\Abraham\source\repos\Classwith3Methods\Classwith3Methods\obj\Debug\Classwith3Methods.csprojAssemblyReference.cache
-C:\Users\Abraham\source\repos\Classwith3Methods\Classwith3Methods\obj\Debug\Classwith3Methods.csproj.CoreCompileInputs.cache
-C:\Users\Abraham\source\repos\Classwith3Methods\Classwith3Methods\bin\Debug\Classwith3Methods.exe.config
-C:\Users\Abraham\source\repos\Classwith3Methods\Classwith3Methods\bin\Debug\Classwith3Methods.exe
-C:\Users\Abraham\source\repos\Classwith3Methods\Classwith3Methods\bin\Debug\Classwith3Methods.pdb
-C:\Users\Abraham\source\repos\Classwith3Methods\Classwith3Methods\obj\Debug\Classwith3Methods.exe
-C:\Users\Abraham\source\repos\Classwith3Methods\Classwith3Methods\obj\Debug\Classwith3Methods.pdb
