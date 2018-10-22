@@ -1,0 +1,6 @@
+C:\Users\Abraham\source\repos\ClassOverloadStatic\ClassOverloadStatic\bin\Debug\ClassOverloadStatic.exe.config
+C:\Users\Abraham\source\repos\ClassOverloadStatic\ClassOverloadStatic\bin\Debug\ClassOverloadStatic.exe
+C:\Users\Abraham\source\repos\ClassOverloadStatic\ClassOverloadStatic\bin\Debug\ClassOverloadStatic.pdb
+C:\Users\Abraham\source\repos\ClassOverloadStatic\ClassOverloadStatic\obj\Debug\ClassOverloadStatic.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ClassOverloadStatic\ClassOverloadStatic\obj\Debug\ClassOverloadStatic.exe
+C:\Users\Abraham\source\repos\ClassOverloadStatic\ClassOverloadStatic\obj\Debug\ClassOverloadStatic.pdb
