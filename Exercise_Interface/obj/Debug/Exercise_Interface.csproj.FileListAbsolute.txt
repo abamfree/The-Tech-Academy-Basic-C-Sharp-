@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\Exercise_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\Exercise_Interface.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\Exercise_Interface.exe.config
+C:\Users\Abraham\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\Exercise_Interface.exe
+C:\Users\Abraham\source\repos\Exercise_Interface\Exercise_Interface\bin\Debug\Exercise_Interface.pdb
+C:\Users\Abraham\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\Exercise_Interface.exe
+C:\Users\Abraham\source\repos\Exercise_Interface\Exercise_Interface\obj\Debug\Exercise_Interface.pdb
