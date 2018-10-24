@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\Exercise_struct\Exercise_struct\bin\Debug\Exercise_struct.exe.config
+C:\Users\Abraham\source\repos\Exercise_struct\Exercise_struct\bin\Debug\Exercise_struct.exe
+C:\Users\Abraham\source\repos\Exercise_struct\Exercise_struct\bin\Debug\Exercise_struct.pdb
+C:\Users\Abraham\source\repos\Exercise_struct\Exercise_struct\obj\Debug\Exercise_struct.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\Exercise_struct\Exercise_struct\obj\Debug\Exercise_struct.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Exercise_struct\Exercise_struct\obj\Debug\Exercise_struct.exe
+C:\Users\Abraham\source\repos\Exercise_struct\Exercise_struct\obj\Debug\Exercise_struct.pdb
