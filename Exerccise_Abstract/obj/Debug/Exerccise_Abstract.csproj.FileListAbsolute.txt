@@ -1,0 +1,6 @@
+C:\Users\Abraham\source\repos\Exerccise_Abstract\Exerccise_Abstract\obj\Debug\Exerccise_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Exerccise_Abstract\Exerccise_Abstract\bin\Debug\Exerccise_Abstract.exe.config
+C:\Users\Abraham\source\repos\Exerccise_Abstract\Exerccise_Abstract\bin\Debug\Exerccise_Abstract.exe
+C:\Users\Abraham\source\repos\Exerccise_Abstract\Exerccise_Abstract\bin\Debug\Exerccise_Abstract.pdb
+C:\Users\Abraham\source\repos\Exerccise_Abstract\Exerccise_Abstract\obj\Debug\Exerccise_Abstract.exe
+C:\Users\Abraham\source\repos\Exerccise_Abstract\Exerccise_Abstract\obj\Debug\Exerccise_Abstract.pdb
