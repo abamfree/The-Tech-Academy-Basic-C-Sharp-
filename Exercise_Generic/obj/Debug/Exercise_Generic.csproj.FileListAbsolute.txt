@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\Exercise_Generic\Exercise_Generic\bin\Debug\Exercise_Generic.exe.config
+C:\Users\Abraham\source\repos\Exercise_Generic\Exercise_Generic\bin\Debug\Exercise_Generic.exe
+C:\Users\Abraham\source\repos\Exercise_Generic\Exercise_Generic\bin\Debug\Exercise_Generic.pdb
+C:\Users\Abraham\source\repos\Exercise_Generic\Exercise_Generic\obj\Debug\Exercise_Generic.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\Exercise_Generic\Exercise_Generic\obj\Debug\Exercise_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Exercise_Generic\Exercise_Generic\obj\Debug\Exercise_Generic.exe
+C:\Users\Abraham\source\repos\Exercise_Generic\Exercise_Generic\obj\Debug\Exercise_Generic.pdb
