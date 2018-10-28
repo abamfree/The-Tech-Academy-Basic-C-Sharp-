@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\Exercise_Lambda\Exercise_Lambda\obj\Debug\Exercise_Lambda.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\Exercise_Lambda\Exercise_Lambda\obj\Debug\Exercise_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Exercise_Lambda\Exercise_Lambda\bin\Debug\Exercise_Lambda.exe.config
+C:\Users\Abraham\source\repos\Exercise_Lambda\Exercise_Lambda\bin\Debug\Exercise_Lambda.exe
+C:\Users\Abraham\source\repos\Exercise_Lambda\Exercise_Lambda\bin\Debug\Exercise_Lambda.pdb
+C:\Users\Abraham\source\repos\Exercise_Lambda\Exercise_Lambda\obj\Debug\Exercise_Lambda.exe
+C:\Users\Abraham\source\repos\Exercise_Lambda\Exercise_Lambda\obj\Debug\Exercise_Lambda.pdb
