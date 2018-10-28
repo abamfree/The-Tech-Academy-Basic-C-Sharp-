@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\Jackpot21\Jackpot21\obj\Debug\Jackpot21.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\Jackpot21\Jackpot21\obj\Debug\Jackpot21.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Jackpot21\Jackpot21\bin\Debug\Jackpot21.exe.config
+C:\Users\Abraham\source\repos\Jackpot21\Jackpot21\bin\Debug\Jackpot21.exe
+C:\Users\Abraham\source\repos\Jackpot21\Jackpot21\bin\Debug\Jackpot21.pdb
+C:\Users\Abraham\source\repos\Jackpot21\Jackpot21\obj\Debug\Jackpot21.exe
+C:\Users\Abraham\source\repos\Jackpot21\Jackpot21\obj\Debug\Jackpot21.pdb
