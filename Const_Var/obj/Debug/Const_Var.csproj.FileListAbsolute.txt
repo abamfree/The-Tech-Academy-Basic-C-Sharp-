@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\Const_Var\Const_Var\obj\Debug\Const_Var.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\Const_Var\Const_Var\obj\Debug\Const_Var.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Const_Var\Const_Var\bin\Debug\Const_Var.exe.config
+C:\Users\Abraham\source\repos\Const_Var\Const_Var\bin\Debug\Const_Var.exe
+C:\Users\Abraham\source\repos\Const_Var\Const_Var\bin\Debug\Const_Var.pdb
+C:\Users\Abraham\source\repos\Const_Var\Const_Var\obj\Debug\Const_Var.exe
+C:\Users\Abraham\source\repos\Const_Var\Const_Var\obj\Debug\Const_Var.pdb
