@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\log_Text\log_Text\obj\Debug\log_Text.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\log_Text\log_Text\obj\Debug\log_Text.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\log_Text\log_Text\bin\Debug\log_Text.exe.config
+C:\Users\Abraham\source\repos\log_Text\log_Text\bin\Debug\log_Text.exe
+C:\Users\Abraham\source\repos\log_Text\log_Text\bin\Debug\log_Text.pdb
+C:\Users\Abraham\source\repos\log_Text\log_Text\obj\Debug\log_Text.exe
+C:\Users\Abraham\source\repos\log_Text\log_Text\obj\Debug\log_Text.pdb
