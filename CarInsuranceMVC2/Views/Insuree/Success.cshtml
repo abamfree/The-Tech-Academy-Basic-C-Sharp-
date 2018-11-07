@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CarInsuranceMVC2.Models.InsuranceEntities>
+
+
+
+@{
+
+    ViewBag.Title = "Success";
+
+}
+
+
+
+<h2>Success</h2>
+
+
+
+<table class="table">
+
+    <tr>
+
+        <th>
+
+            <h6>Your</h6> @Html.DisplayNameFor(model => model.Quote) <h6>is:</h6>
+
+        </th>
+
+        <th></th>
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+
+    {
+
+        <tr>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.Quote)
+
+            </td>
+
+        </tr>
+
+    }
+
+
+
+</table>
