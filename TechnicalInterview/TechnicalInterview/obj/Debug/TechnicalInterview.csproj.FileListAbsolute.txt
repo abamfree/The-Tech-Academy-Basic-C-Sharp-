@@ -1,0 +1,7 @@
+C:\Users\Abraham\source\repos\TechnicalInterview\TechnicalInterview\bin\Debug\TechnicalInterview.exe.config
+C:\Users\Abraham\source\repos\TechnicalInterview\TechnicalInterview\bin\Debug\TechnicalInterview.exe
+C:\Users\Abraham\source\repos\TechnicalInterview\TechnicalInterview\bin\Debug\TechnicalInterview.pdb
+C:\Users\Abraham\source\repos\TechnicalInterview\TechnicalInterview\obj\Debug\TechnicalInterview.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\TechnicalInterview\TechnicalInterview\obj\Debug\TechnicalInterview.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\TechnicalInterview\TechnicalInterview\obj\Debug\TechnicalInterview.exe
+C:\Users\Abraham\source\repos\TechnicalInterview\TechnicalInterview\obj\Debug\TechnicalInterview.pdb
