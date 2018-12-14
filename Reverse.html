@@ -1,0 +1,25 @@
+<html>
+<head>
+<script>
+ 
+	//usage
+	function doReverse(){
+		var str = document.getElementById( 'mystring' ).value;
+		alert( "" + reverseString( str ) );
+	}
+	
+	//reverse function 
+	function reverseString( str ){
+		str = str.split(''); //split the entered string 
+		str = str.reverse(); //reverse the order 
+		str = str.join(''); //then join the reverse order array values
+		return str;
+	}
+	
+</script>
+</head>
+<body>
+		<input type="text" id="mystring" value="spider" />
+	<button id="btn" onClick="doReverse()" >Reverse</button>
+</body>
+</html>
